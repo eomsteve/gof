@@ -1,1 +1,1 @@
-const str: string = 'Hello, World!';
+import Canvas from "../note/singleton";
